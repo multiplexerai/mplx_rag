@@ -1,7 +1,7 @@
 # mplx_rag
 Complex RAG backend
 
-GPT generated summery fir now
+GPT generated summery for now
 
 Initialization and Configuration: It sets up logging, initializes an asynchronous OpenAI client with API keys, configures Pinecone for vector database interactions, and establishes a Redis connection for session management.
 
